@@ -1,0 +1,24 @@
+
+
+<style>
+
+a{
+     text-align: center;
+     display: block;
+     text-decoration: none;
+     color: black;
+}
+body{
+    text-align: center;
+    font-size: large;
+    
+}
+
+</style>
+
+<img  width="200px" src="http://iconicsoln.com/public/images/logo/iconic-solution.png" alt="">
+<a href="https://iconicsoln.com">Website</a>
+<p>
+Phone:0300-123321</p>
+<a href="https://facebook.com/iconicsoln">Facebook</a><br>
+<a href="https://instagram.com/iconicsolnltd">instagram</a>
